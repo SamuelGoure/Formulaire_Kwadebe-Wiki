@@ -105,6 +105,9 @@ input::placeholder {
     display: flex;
     justify-content: space-between;
 }
+.one, .two{
+   background-color: rgba(73, 69, 65, 0.8);;
+}
 
 /* Lien css du troisième fichier html */
 
@@ -161,4 +164,7 @@ label {
     background-color: #af600e;
     border-radius: 10px;
     text-decoration: none;
+}
+.left-btn{
+    background-color: rgba(73, 69, 65, 0.8);
 }
